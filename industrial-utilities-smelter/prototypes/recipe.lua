@@ -2,7 +2,7 @@ data:extend({
     {
         type = "recipe",
         name = "iu-industrial-smelter",
-        category = "crafting-with-fluid",
+        categories = {"crafting-with-fluid"},
         enabled = false,
         energy_required = 30,
         ingredients = {
