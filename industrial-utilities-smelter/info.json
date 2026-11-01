@@ -1,0 +1,11 @@
+{
+  "name": "industrial-utilities-smelter",
+  "version": "0.1.0",
+  "title": "Industrial Utilities - Smelter",
+  "author": "jmwintenn & ChatGPT",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Adds a configurable industrial electric furnace designed for UPS-friendly megabases."
+}
